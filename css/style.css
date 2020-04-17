@@ -1,3 +1,6 @@
+body {
+  background-color: rgb(110, 98, 81);
+}
 #movies {
   display: flex;
   justify-content: center;
